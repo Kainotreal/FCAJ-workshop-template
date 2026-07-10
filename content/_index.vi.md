@@ -24,19 +24,19 @@ chapter: false
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Chuyên ngành:</td>
-        <td style="border: none; padding: 3px 0;">An ninh mạng</td>
+        <td style="border: none; padding: 3px 0;">Máy học ứng dụng</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Giảng viên hướng dẫn:</td>
-        <td style="border: none; padding: 3px 0;">Đinh Huỳnh Tuệ Tuệ</td>
+        <td style="border: none; padding: 3px 0;">Vũ Thanh Hiền</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Sinh viên thực hiện:</td>
-        <td style="border: none; padding: 3px 0;">Phạm Cao Chí Thành</td>
+        <td style="border: none; padding: 3px 0;">Võ Thanh Trí</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Mã số sinh viên (MSSV):</td>
-        <td style="border: none; padding: 3px 0;">2280602954</td>
+        <td style="border: none; padding: 3px 0;">2280603380</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Lớp:</td>

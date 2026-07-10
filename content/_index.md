@@ -24,19 +24,19 @@ chapter: false
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Major:</td>
-        <td style="border: none; padding: 3px 0;">Cyber Security</td>
+        <td style="border: none; padding: 3px 0;">Machine Learning</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Academic Advisor:</td>
-        <td style="border: none; padding: 3px 0;">Dinh Huynh Tue Tue</td>
+        <td style="border: none; padding: 3px 0;">Vu Thanh Hien</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Student Name:</td>
-        <td style="border: none; padding: 3px 0;">Pham Cao Chi Thanh</td>
+        <td style="border: none; padding: 3px 0;">Vo Thanh Tri</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Student ID (MSSV):</td>
-        <td style="border: none; padding: 3px 0;">2280602954</td>
+        <td style="border: none; padding: 3px 0;">2280603380</td>
       </tr>
       <tr style="border: none;">
         <td style="font-weight: bold; border: none; padding: 3px 0;">Class:</td>
