@@ -21,4 +21,4 @@ Detailed records of tasks and outcomes during 12 weeks of internship as a FCJ Cl
 *   [Week 9](1.9-Week9/) (20/06 - 27/06): JWT Authorization & Frontend-Backend Integration
 *   [Week 10](1.10-Week10/) (28/06 - 05/07): Writing Terraform IaC & Deploying RDS PostgreSQL
 *   [Week 11](1.11-Week11/) (06/07 - 12/07): Packaging C# Backend & Serverless Deployment on AWS Lambda
-*   [Week 12](1.12-Week12/) (13/07 - 19/07): Amazon S3 File Upload Integration & Client-side URL Masking
+*   [Week 12](1.12-Week12/) (13/07 - 12/07): Amazon S3 File Upload Integration & Client-side URL Masking
