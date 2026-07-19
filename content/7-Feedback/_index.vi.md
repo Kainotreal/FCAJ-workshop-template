@@ -19,4 +19,4 @@ Chương trình thực tập **FCJ Cloud Intern** đã tạo cơ hội tuyệt v
 *   Chương trình có thể tổ chức thêm các buổi hướng dẫn sâu hơn về bảo mật đám mây nâng cao (IAM Advanced Policies, Web Application Firewall - WAF).
 
 ### 4. Giới thiệu cho bạn bè
-*   Chắc chắn tôi sẽ giới thiệu chương trình này cho các khóa sau tại Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE), vì đây là bệ phóng hoàn hảo cho bất kỳ bạn sinh viên nào muốn theo đuổi mảng Cloud Computing.
+*   Chắc chắn tôi sẽ giới thiệu chương trình này cho các khóa sau tại Đại học Công nghệ TP.HCM (HUTECH), vì đây là bệ phóng hoàn hảo cho bất kỳ bạn sinh viên nào muốn theo đuổi mảng Cloud Computing.
