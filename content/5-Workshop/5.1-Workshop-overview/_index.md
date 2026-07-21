@@ -27,5 +27,5 @@ The diagram below illustrates the network layout and data lifecycle:
 - **Amazon S3:** Hosts permanent public file uploads (avatars, ID scans) bypassing Lambda's read-only disk layout.
 - **Amazon RDS:** Managed PostgreSQL instance deployed in a secure private subnet, reachable only from the Lambda security group boundary.
 
-### Web Link: [https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8](https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8)
+
 

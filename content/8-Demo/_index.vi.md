@@ -25,5 +25,5 @@ Dưới đây là các liên kết quan trọng của dự án **SmartDorm**, ba
    - **Mô tả:** Chứa mã nguồn dự án, tệp cấu hình, kịch bản Terraform để triển khai hạ tầng tự động trên AWS.
 
 3. **Website ứng dụng trực tuyến**
-   - **Đường dẫn:** [https://kainotreal.github.io/FCAJ-workshop-template/](https://kainotreal.github.io/FCAJ-workshop-template/)
+   - **Đường dẫn:** [https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8](https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8)
    - **Mô tả:** Giao diện ứng dụng web được triển khai thực tế phục vụ người dùng trải nghiệm.

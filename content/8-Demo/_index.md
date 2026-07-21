@@ -24,5 +24,5 @@ Below are the key links for the **SmartDorm** project demo, including the video 
    - **Description:** Includes source code, configuration files, Terraform scripts for AWS deployment, and documentation.
 
 3. **Live Web Application**
-   - **URL:** [https://kainotreal.github.io/FCAJ-workshop-template/](https://kainotreal.github.io/FCAJ-workshop-template/)
+   - **URL:** [https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8](https://smartdorm-orpin.vercel.app/?sig=4db65cb6&id=b55215e8)
    - **Description:** Deployed application interface for user access and live testing.
