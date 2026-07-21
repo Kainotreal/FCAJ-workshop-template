@@ -25,3 +25,7 @@ Here are the practical methods we applied:
 
 #### 4. Utilizing RDS PostgreSQL running on ARM chip (db.t4g.micro)
 *   Leveraged AWS RDS Free Tier's 750 hours/month running on Graviton2 (ARM) processors for highly efficient, cost-free database performance.
+
+---
+* **Original Article Link:** [Read on AWS Study Group](https://www.facebook.com/share/p/1959tDXP71/?)
+

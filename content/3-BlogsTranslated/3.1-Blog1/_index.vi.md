@@ -25,3 +25,7 @@ Dưới đây là các phương pháp thực tế mà nhóm đã áp dụng:
 
 #### 4. Sử dụng RDS PostgreSQL chạy trên dòng chip ARM (db.t4g.micro)
 *   Tận dụng gói miễn phí RDS 750 giờ/tháng chạy trên bộ xử lý Graviton2 (ARM) mạnh mẽ và tiết kiệm điện năng của AWS.
+
+---
+* **Link bài viết gốc:** [Xem trên AWS Study Group](https://www.facebook.com/share/p/1959tDXP71/?)
+
