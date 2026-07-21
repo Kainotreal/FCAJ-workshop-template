@@ -21,11 +21,11 @@ Dưới đây là các liên kết quan trọng của dự án **SmartDorm**, ba
 ### Thông tin chi tiết
 
 1. **Video Demo**
-   - **Đường dẫn:** [https://youtube.com](https://youtube.com)
+   - **Đường dẫn:** [https://drive.google.com/file/d/1s8oZHd6jNctYT540rEDxtHUzcmDhf8be/view?usp=sharing](https://drive.google.com/file/d/1s8oZHd6jNctYT540rEDxtHUzcmDhf8be/view?usp=sharing)
    - **Mô tả:** Video hướng dẫn và trình diễn quy trình vận hành thực tế của hệ thống, hạ tầng AWS và các tính năng chính.
 
 2. **Mã nguồn GitHub**
-   - **Đường dẫn:** [https://github.com/kainotreal/FCAJ-workshop-template](https://github.com/kainotreal/FCAJ-workshop-template)
+   - **Đường dẫn:** [https://github.com/PhamCaoChiThanh/SmartDorm](https://github.com/PhamCaoChiThanh/SmartDorm)
    - **Mô tả:** Chứa mã nguồn dự án, tệp cấu hình, kịch bản Terraform để triển khai hạ tầng tự động trên AWS.
 
 3. **Website ứng dụng trực tuyến**
