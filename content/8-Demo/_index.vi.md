@@ -10,11 +10,7 @@ pre: " <b> 8. </b> "
 
 Dưới đây là các liên kết quan trọng của dự án **SmartDorm**, bao gồm Video Demo sản phẩm, Mã nguồn trên GitHub và Website ứng dụng trực tuyến.
 
-| Loại | Mô tả | Liên kết |
-| :--- | :--- | :--- |
-| 📹 **Video Demo** | Video trình diễn tính năng và kiến trúc hệ thống | [Xem Video Demo](https://youtube.com) |
-| 💻 **GitHub Repository** | Toàn bộ mã nguồn Backend (.NET Core), Frontend (Next.js) và IaC (Terraform) | [Truy cập GitHub Repo](https://github.com/kainotreal/FCAJ-workshop-template) |
-| 🌐 **Website trực tuyến** | Đường dẫn ứng dụng web đang vận hành | [Truy cập Website](https://kainotreal.github.io/FCAJ-workshop-template/) |
+
 
 ---
 

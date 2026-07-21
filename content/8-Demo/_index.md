@@ -10,11 +10,6 @@ pre: " <b> 8. </b> "
 
 Below are the key links for the **SmartDorm** project demo, including the video demonstration, GitHub repository, and live web application.
 
-| Type | Description | Link |
-| :--- | :--- | :--- |
-| 📹 **Video Demo** | Demonstration video showcasing system features & architecture | [Watch Video Demo](https://youtube.com) |
-| 💻 **GitHub Repository** | Full source code for Backend (.NET Core), Frontend (Next.js), and IaC (Terraform) | [Access GitHub Repo](https://github.com/kainotreal/FCAJ-workshop-template) |
-| 🌐 **Web Application** | Live deployed application URL | [Visit Live Website](https://kainotreal.github.io/FCAJ-workshop-template/) |
 
 ---
 
